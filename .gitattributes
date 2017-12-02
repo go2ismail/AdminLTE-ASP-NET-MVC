@@ -3,6 +3,9 @@
 ###############################################################################
 * text=auto
 
+Scripts/* linguist-vendored
+Content/* linguist-vendored
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
