@@ -23,7 +23,7 @@ this repo, provide full **ASP.NET MVC** version of AdminLTE, consisting all the 
 - Examples
 - Multilevel
 
-![adminltemvc](Content/adminltemvc.png)
+![adminltemvc](adminlte/Content/adminltemvc.png)
 
 # Development Tools & Environment
 
