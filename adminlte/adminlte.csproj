@@ -191,6 +191,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\adminltemvc.png" />
     <Content Include="Content\adminlte\css\AdminLTE.css" />
     <Content Include="Content\adminlte\css\AdminLTE.min.css" />
     <Content Include="Content\adminlte\css\alt\AdminLTE-bootstrap-social.css" />
@@ -4216,6 +4217,7 @@
     <Content Include="Scripts\adminlte\components\ckeditor\skins\kama\readme.md" />
     <Content Include="Scripts\adminlte\components\ckeditor\skins\moono-lisa\readme.md" />
     <Content Include="Scripts\adminlte\components\ckeditor\skins\moono\readme.md" />
+    <Content Include="README.md" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
