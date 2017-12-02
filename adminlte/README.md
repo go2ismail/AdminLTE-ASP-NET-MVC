@@ -27,7 +27,7 @@ this repo, provide full **ASP.NET MVC** version of AdminLTE, consisting all the 
 
 # Development Tools & Environment
 
-I'm using **Visual Studio Community 2015** for the development tools on Windows 10 machine.
+I'm using **Visual Studio Community 2015** for the development tools on Windows 10 machine. For this project, i'm using AdminLTE version **2.4.2**.
 
 # AdminLTE ASP.NET MVC Version Usage
 
