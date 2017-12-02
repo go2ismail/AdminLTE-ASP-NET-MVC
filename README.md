@@ -1,6 +1,6 @@
 ﻿# AdminLTE
 
-AdminLTE - is Free Premium Admin control Panel Theme Based On Bootstrap 3.x
+AdminLTE - is a Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 
 the creator of AdminLTE is [Abdulllah Almsaeed](https://adminlte.io/about)
 
