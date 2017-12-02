@@ -1,10 +1,10 @@
+Scripts/* linguist-vendored
+Content/* linguist-vendored
+*.cshtml linguist-language=C#
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-
-Scripts/* linguist-vendored
-Content/* linguist-vendored
 
 ###############################################################################
 # Set default behavior for command prompt diff.
