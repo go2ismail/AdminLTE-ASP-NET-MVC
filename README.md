@@ -41,7 +41,8 @@ You can **Clone / Download** the repo and then start building beautiful web app 
 - work with razor
 - create HTML helper extension
 
-
+# Supported by CodeRush.Co
+[CodeRush.CO] source code collections (https://coderush.co)
 
 
 
