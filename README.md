@@ -42,7 +42,7 @@ You can **Clone / Download** the repo and then start building beautiful web app 
 - create HTML helper extension
 
 # Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co)
+[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
 
 
 
